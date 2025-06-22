@@ -1,4 +1,4 @@
-employee_id,employee_name,department,state
+emp_id,employee_name,department,state
 1000,Nitz Leif,Marketing,CA
 1001,Melissia Dedman,Finance,AK
 1002,Rudolph Barringer,HR,LA
